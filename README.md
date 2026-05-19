@@ -6,20 +6,15 @@
 </div>
 <h1 align="center">Hi, I'm Facu</h1>
 <h3 align="center">A Computer Engineer Student from Argentina</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facumartinezz" alt="facumartinezz" /></a> </p>
+<div align="left">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZlaXpzMTU1dnBkbTk0cGY4ZDhkNjUzeG5mdGJuNmZ0b213Zms3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL0ydLDEcARWY0g/giphy.gif"  />
+</div>
 
 - 🔭 I’m currently working on [VetRural](https://github.com/chinoferretti/VetRural)
 
 - 🌱 I’m currently learning **Java, NoSQL (MongoDB, Redis, Neo4J and Cassandra)**
 
-- 👯 I’m looking to collaborate on **Front End sides of Applications**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Facumartinezz/repos](https://github.com/facumartinezz/repos)
-
-- 💬 Ask me about **Python, JavaScript, HTML, CSS, Vite, React, Java**
-
-- 📫 How to reach me **facundomartinezzorzi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -36,9 +31,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczcxYnpuZ3I1MWNlcWUxc3BzdWVkMmp4aXA5Z2Z4bThkcWw4dWlvMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w5MMNvg70MrQ0I2DR/giphy.gif"  />
-</div>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <div align="left">
@@ -81,12 +74,10 @@
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
 </div>
 <h3 align="left">GitHub Stats:</h3>
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=facumartinezz&layout=compact&theme=tokyonight" />
-</p>
-
-
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExanF2Nngzc3RhNmg4bHEyN3loaGN5eXYxZnJ5c2xpc3B5NHVjN3prZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornjPteRwwUdSWifC/giphy.gif"  />
+</div>
 
 <div>
   <img 
