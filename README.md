@@ -1,8 +1,9 @@
 
-<h1 align="center">Facundo Martinez Zorzi</h1>
-<h3 align="center">Computer Engineer Student from Argentina</h3>
-<div align="left">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZlaXpzMTU1dnBkbTk0cGY4ZDhkNjUzeG5mdGJuNmZ0b213Zms3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL0ydLDEcARWY0g/giphy.gif"  />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Facundo%20Martinez%20Zorzi&fontSize=50&font=Audiowide&fontColor=00FFFF&color=0:000000,100:1a1a40&animation=twinkling&fontAlignY=40&desc=Computer%20Engineering%20Student%20from%20Argentina&descAlignY=58&descSize=18" />
+</div>
+<div align="center">
+  <img height="260" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1hZGxiOW5mOTAwbnBwM3R4eWk5Z3V6NGo1ZXlnamp4cnhrMmd2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w5MMNvg70MrQ0I2DR/giphy.gif" />
 </div>
 <br>
 <br>
@@ -45,7 +46,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="bootstrap logo"  />
 </div>
+<br>
+
 <div align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=facumartinezz&theme=dracula" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=facumartinezz&layout=compact&theme=tokyonight" />
 </div>
 
@@ -53,7 +57,11 @@
 <br>
 
 <div align="center">
-  <img height="150" src="https://streak-stats.demolab.com?user=facumartinezz&theme=dracula" />
+<img height="260" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZlaXpzMTU1dnBkbTk0cGY4ZDhkNjUzeG5mdGJuNmZ0b213Zms3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL0ydLDEcARWY0g/giphy.gif" />
+</div>
+<br>
+<br>
+<div align="center">
   <img height="150" src="https://github-profile-trophy.vercel.app/?username=facumartinezz&theme=dracula&row=1&column=4" />
 </div>
 <br>
