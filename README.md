@@ -70,7 +70,7 @@
   <a href="https://www.linkedin.com/in/facundo-martinez-zorzi-063992207?utm_source=share_via&utm_content=profile&utm_medium=member_ios" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https:/www.x.com/facu_martinez03" target="_blank">
+  <a href="https://x.com/facu_martinez03?s=11&t=FmKxNXc6n1dRwM-voHf0dg" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
   <a href="https://discord.gg/facumarz" target="_blank">
