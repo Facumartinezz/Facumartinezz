@@ -4,7 +4,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient" 
   />
 </div>
-<h1 align="center">Hi 👋, I'm Facu</h1>
+<h1 align="center">Hi, I'm Facu</h1>
 <h3 align="center">A Computer Engineer Student from Argentina</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facumartinezz" alt="facumartinezz" /></a> </p>
