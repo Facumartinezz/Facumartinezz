@@ -52,13 +52,6 @@
   <img height="170" src="https://streak-stats.demolab.com?user=facumartinezz&theme=dracula" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=facumartinezz&layout=compact&theme=tokyonight" />
 </div>
-
-<br>
-<br>
-
-<div align="center">
-<img height="260" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZlaXpzMTU1dnBkbTk0cGY4ZDhkNjUzeG5mdGJuNmZ0b213Zms3aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26FL0ydLDEcARWY0g/giphy.gif" />
-</div>
 <br>
 <br>
 <div align="center">
