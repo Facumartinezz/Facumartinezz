@@ -10,12 +10,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=18&duration=3400&pause=900&color=CBB6FF&center=true&vCenter=true&width=520&lines=Computer+Engineer+from+Argentina;Backend+%26+Web+Development;Databases+%7C+APIs+%7C+Clean+Code" alt="roles" />
 </div>
-
+<br>
 <!-- ==================== STACK ==================== -->
 <div align="center">
   <img height="38" src="https://img.shields.io/badge/Tech%20Stack-3b2f63?style=for-the-badge&labelColor=3b2f63" alt="Tech Stack" />
 </div>
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-241d3d?style=flat-square&logo=javascript&logoColor=CBB6FF" alt="javascript" />
   <img src="https://img.shields.io/badge/TypeScript-241d3d?style=flat-square&logo=typescript&logoColor=CBB6FF" alt="typescript" />
@@ -44,11 +44,13 @@
   <img src="https://img.shields.io/badge/Red%20Hat-241d3d?style=flat-square&logo=redhat&logoColor=CBB6FF" alt="redhat" />
 </div>
 
+<br>
+<br>
 <!-- ==================== CONNECT ==================== -->
 <div align="center">
   <img height="38" src="https://img.shields.io/badge/Let's%20Connect-3b2f63?style=for-the-badge&labelColor=3b2f63" alt="Let's Connect" />
 </div>
-
+<br>
 <div align="center">
   <a href="https://www.linkedin.com/in/facundo-martinez-zorzi-063992207" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-241d3d?style=flat-square&logo=linkedin&logoColor=CBB6FF" height="26" alt="linkedin" />
