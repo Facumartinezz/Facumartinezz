@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Facundo%20Martinez%20Zorzi&fontSize=50&font=Audiowide&fontColor=00FFFF&color=0:000000,100:1a1a40&animation=twinkling&fontAlignY=40&desc=Computer%20Engineering%20Student%20from%20Argentina&descAlignY=58&descSize=18" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Facundo%20Martinez%20Zorzi&fontSize=50&font=Audiowide&fontColor=00FFFF&color=0:000000,100:1a1a40&animation=twinkling&fontAlignY=40&desc=Computer%20Engineer%20from%20Argentina&descAlignY=58&descSize=18" />
 </div>
 <div align="center">
   <img height="260" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1hZGxiOW5mOTAwbnBwM3R4eWk5Z3V6NGo1ZXlnamp4cnhrMmd2OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2w5MMNvg70MrQ0I2DR/giphy.gif" />
